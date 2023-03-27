@@ -3,6 +3,11 @@ This is an open-source project that aims to recreate the classic racing game 'Ri
 
 ## Code only no 3D assets.
 
+![image](https://user-images.githubusercontent.com/8495748/228048965-4591a60a-df8b-4df7-a78a-aef974b775b1.png)
+
+![image](https://user-images.githubusercontent.com/8495748/228049047-6fb25b6b-a7e7-44b6-a111-422c2f69f88e.png)
+
+
 # Getting Started
 - To get started with the Ridge Racer Type-4 Remake, follow these steps:
 
